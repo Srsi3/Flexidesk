@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.201
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{C0B8C3FE-5F71-4F40-AF4E-639BCC0BCB16}") = "WidgetHost", "src\WidgetHost\WidgetHost.vcxproj", "{D1A1C5E2-1234-4B8F-9CDE-ABCDE1234567}"
+Project("{C0B8C3FE-5F71-4F40-AF4E-639BCC0BCB16}") = "WidgetHost", "src\Widget_host\WidgetHost.vcxproj", "{D1A1C5E2-1234-4B8F-9CDE-ABCDE1234567}"
 EndProject
 Global
     GlobalSection(SolutionConfigurationPlatforms) = preSolution
