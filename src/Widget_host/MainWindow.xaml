@@ -1,0 +1,22 @@
+<Window
+    x:Class="winrt::WidgetHost::implementation::MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="DeskCraft Overlay Host"
+    Width="400" Height="300"
+    Background="Transparent"
+    ExtendsContentIntoTitleBar="True">
+
+  <Border
+    x:Name="DragRegion"
+    Background="#80FFD700"
+    CornerRadius="8"
+    Padding="12">
+    <TextBlock
+      Text="Drag me!"
+      FontSize="18"
+      Foreground="White"
+      HorizontalAlignment="Center"
+      VerticalAlignment="Center"/>
+  </Border>
+</Window>
